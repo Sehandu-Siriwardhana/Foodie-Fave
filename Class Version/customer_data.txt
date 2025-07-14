@@ -1,0 +1,10 @@
+Customer S N Burgers Required: 2
+Customer 1 1 Burgers Required: 1
+Customer N M Burgers Required: 2
+Customer 2 2 Burgers Required: 2
+Customer K L Burgers Required: 8
+Customer A A Burgers Required: 2
+Customer 3 4 Burgers Required: 3
+Customer 5 6 Burgers Required: 2
+Customer L V Burgers Required: 2
+Customer K K Burgers Required: 5

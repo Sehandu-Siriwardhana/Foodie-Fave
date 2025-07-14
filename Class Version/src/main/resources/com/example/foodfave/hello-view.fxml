@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="424.0" prefWidth="636.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="424.0" fitWidth="636.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Images/BurgerImage.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="228.0" layoutY="50.0" prefHeight="44.0" prefWidth="186.0" text=" Foodies Fave Food Center" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Bodoni MT Bold" size="17.0" />
+         </font>
+      </Label>
+      <ListView layoutX="14.0" layoutY="120.0" prefHeight="200.0" prefWidth="200.0" />
+      <ListView layoutX="221.0" layoutY="120.0" prefHeight="200.0" prefWidth="200.0" />
+      <ListView layoutX="428.0" layoutY="120.0" prefHeight="200.0" prefWidth="200.0" />
+      <Button layoutX="88.0" layoutY="338.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="292.0" layoutY="338.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="502.0" layoutY="338.0" mnemonicParsing="false" text="Button" />
+   </children>
+</AnchorPane>
